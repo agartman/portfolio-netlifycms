@@ -1,5 +1,5 @@
-import React from "react";
-import Link from "gatsby-link";
+import React from "react"
+import Link from "gatsby-link"
 
 const MainFooter = () => (
   <div className="c-main-footer">
@@ -24,14 +24,14 @@ const MainFooter = () => (
         Netlify
       </a>. The code is open source and available at{" "}
       <a
-        href="https://github.com/greglobinski/playground"
+        href="https://gitlab.com/agartman/portfolio"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Github
+        Gitlab
       </a>.
     </p>
   </div>
-);
+)
 
-export default MainFooter;
+export default MainFooter
