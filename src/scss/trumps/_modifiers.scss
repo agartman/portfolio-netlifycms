@@ -1,0 +1,16 @@
+.is-active {
+  color: green;
+}
+
+.is-pos-relative {
+  position: relative;
+}
+
+.is-blurred {
+  /*filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius="2");
+  -webkit-filter: url(#blur-filter);
+  filter: url(#blur-filter);
+  -webkit-filter: blur(2px);
+  filter: blur(2px);*/
+  opacity: 0.4;
+}
